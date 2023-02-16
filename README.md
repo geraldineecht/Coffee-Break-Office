@@ -1,5 +1,12 @@
 # Coffee-Break-Office
 
+<p align="center"> 
+
+  <img src="https://i.imgur.com/VRkUviO.png"/> 
+
+</p>
+
+Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
 ![alt text](https://i.imgur.com/VRkUviO.png)
 
 ### Misión
