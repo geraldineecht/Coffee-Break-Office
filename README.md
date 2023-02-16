@@ -7,12 +7,12 @@ Coffee Break nace de la pasión por la tecnología y el compromiso de ofrecer la
 Posicionar a Coffee Break como una empresa líder al mantener un alto reconocimiento por su liderazgo en el mercado de las tecnologías de la información, por sus soluciones creativas, innovadoras, mejores prácticas, calidad de servicio y compromiso con nuestros clientes.
 
 ### Valores
-Constancia
-Responsabilidad y compromiso
-Respeto
-Calidad
-Profesionalismo
-Solidaridad
-Pasión
+- Constancia
+- Responsabilidad y compromiso
+- Respeto
+- Calidad
+- Profesionalismo
+- Solidaridad
+- Pasión
 
 ### Imágen Corporativa
