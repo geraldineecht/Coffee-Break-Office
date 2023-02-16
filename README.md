@@ -16,5 +16,3 @@ Posicionar a Coffee Break como una empresa líder al mantener un alto reconocimi
 - Profesionalismo
 - Solidaridad
 - Pasión
-
-### Imágen Corporativa
