@@ -1,5 +1,9 @@
 # Coffee-Break-Office
 
-### Mision
+### Misión
 
-### Vision
+### Visión
+
+### Valores
+
+### Imágen Corporativa
